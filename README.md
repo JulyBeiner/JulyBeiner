@@ -1,4 +1,6 @@
-![July's Data Lab](https://github.com/JulyBeiner/JulyBeiner/blob/main/Screenshot%202025-02-21%20143729.png?raw=true)
+<div align="center">
+  <img src="https://github.com/JulyBeiner/JulyBeiner/blob/main/Screenshot%202025-02-21%20143729.png?raw=true" alt="July's Data Lab">
+</div>
 
 # ✨ Sobre Mí:✨
 <br><br><br>👋 ¡Hola! Soy July, una Data Analyst apasionada con ganas de transformar datos en historias, insights y soluciones inteligentes.<br><br>📊 Me encanta explorar, analizar y visualizar datos para encontrar patrones y tomar decisiones basadas en ellos. Me considero curiosa, proactiva y siempre en busca de nuevos retos.<br><br>💡 Actualmente vivo en Madrid, y estoy en constante aprendizaje, ampliando mis habilidades en Python, SQL, Power BI, Tableau y Machine Learning.<br><br>🚀 Mi objetivo es participar en proyectos desafiantes donde pueda aplicar mis conocimientos y seguir creciendo en este mundo fascinante de los datos.<br><br>🌱 En mi GitHub encontrarás proyectos donde trabajo con datos reales, aplicando técnicas de análisis, limpieza y visualización.<br><br>📩 ¿Te gustaría conectar conmigo o colaborar en un proyecto? Estoy abierta a nuevas oportunidades y retos.<br><br><br><br>📍 Hablemos de datos.
