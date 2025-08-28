@@ -3,38 +3,38 @@
 </div>
 
 ## ✨ Sobre mí
-👋 ¡Hola! Soy **July**, Data Analyst con ganas de convertir datos en historias, **insights** y decisiones.  
-📍 Madrid · Python · SQL · Power BI · Tableau · (aprendiendo ML)  
-🚀 Busco proyectos retadores donde aplicar análisis, limpieza y visualización de datos.
+Hola, soy **July**. Creo historias con datos: los limpio, los modelo y los traduzco en decisiones que mueven negocio.  
+Me apasiona construir soluciones **claras, visuales y medibles** con Python, SQL y dashboards; siempre con un toque **aesthetic** que haga el análisis fácil de entender y recordar.
 
 ---
 
 ## 🌐 Redes y contacto
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/julbeiner_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julyanna-jaramillo-beiner-0a7582182/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:julybeinerdata@gmail.com)
+[![Instagram](https://img.shields.io/badge/@julbeiner__-F9C6D0?style=flat&logo=instagram&logoColor=white)](https://instagram.com/julbeiner_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-July%20Jaramillo%20Beiner-BDE0FE?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julyanna-jaramillo-beiner-0a7582182/)
+[![Email](https://img.shields.io/badge/Email-julybeinerdata%40gmail.com-CDEAC0?style=flat&logo=gmail&logoColor=white)](mailto:julybeinerdata@gmail.com)
 
 ---
 
 ## 💻 Tech Stack
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFE5EC?style=flat&logo=python&logoColor=4B8BBE)
+![Pandas](https://img.shields.io/badge/Pandas-F8E1F4?style=flat&logo=pandas&logoColor=6C2E9C)
+![NumPy](https://img.shields.io/badge/NumPy-E0FBFC?style=flat&logo=numpy&logoColor=2E6F95)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFF4DB?style=flat&logo=Plotly&logoColor=111)
+![Plotly](https://img.shields.io/badge/Plotly-E8F0FE?style=flat&logo=plotly&logoColor=3F4F75)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-FFE0B5?style=flat&logo=scikitlearn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-DDEBFF?style=flat&logo=scipy&logoColor=0C55A5)
+![SQL](https://img.shields.io/badge/SQL-EFF7F6?style=flat&logo=mysql&logoColor=4479A1)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FFE6CC?style=flat&logo=tensorflow&logoColor=FF6F00)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-FFF4DB?style=flat&logo=powerbi&logoColor=111)
+![Tableau](https://img.shields.io/badge/Tableau-E6F4EA?style=flat&logo=tableau&logoColor=2F4B8A)
+![Figma](https://img.shields.io/badge/Figma-FDE2E4?style=flat&logo=figma&logoColor=fff)
+![Canva](https://img.shields.io/badge/Canva-E9F5F2?style=flat&logo=canva&logoColor=00C4CC)
 
 ---
 
 # Bootcamp Ironhack · Data Analytics (2024)
 
-**Resumen:** recopilación de proyectos y ejercicios del bootcamp.
+**Resumen:** recopilación de proyectos y ejercicios del bootcamp (enlaces directos).
 
 ### Proyectos del bootcamp
 - [Final-Project-Ecommerce-purchase-predictor](https://github.com/JulyBeiner/Final-Project-Ecommerce-purchase-predictor)
@@ -96,7 +96,7 @@
 
 ---
 
-## Portafolio Profesional (Top 6)
+## Proyectos Destacados (Portfolio Pro)
 > Proyectos propios/externos al bootcamp. Iré añadiendo los más completos.
 
 1. **Proyecto 1** — *título corto y claro* — [repo](#)
@@ -109,4 +109,9 @@
 ---
 
 ### 🗣️ Frase del día
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<!-- Opción A: servicio con citas en español y tema pastel -->
+<p align="center">
+  <img src="https://readme-quote.vercel.app/api?lang=es&type=horizontal&theme=catppuccin_mocha&border=true" alt="Frase del día en español" />
+</p>
+
+<!-- Si no se ve bien en tu perfil, cambia theme por: catppuccin_latte | calm | gradient | dracula -->
