@@ -89,25 +89,27 @@ Me gusta que los análisis sean **bonitos, comprensibles y medibles**: Python + 
 
 ---
 
-## Proyectos Destacados (Portfolio Pro)
+## Proyectos Destacados 
 
-1. **Proyecto 1** — *título corto y claro*  
-   [🔗 Repo](#) • ![Python](https://img.shields.io/badge/Python-FFE5EC?style=flat) ![SQL](https://img.shields.io/badge/SQL-D7EBD0?style=flat)
+### Selección principal
+1. **Proyecto 1** — _Próximamente_  
+   [🔗 Repo](#) • ![Python](https://img.shields.io/badge/Python-FFE5EC?style=flat) ![SQL](https://img.shields.io/badge/SQL-D7EBD0?style=flat) ![Pandas](https://img.shields.io/badge/Pandas-F8E1F4?style=flat)
 
-2. **Proyecto 2** — *breve objetivo*  
-   [🔗 Repo](#) • ![Streamlit](https://img.shields.io/badge/Streamlit-EED9F2?style=flat) ![Pandas](https://img.shields.io/badge/Pandas-E0FBFC?style=flat)
+2. **Proyecto 2** — _Próximamente_  
+   [🔗 Repo](#) • ![Streamlit](https://img.shields.io/badge/Streamlit-EED9F2?style=flat) ![scikit--learn](https://img.shields.io/badge/sklearn-FFE0B5?style=flat) ![Plotly](https://img.shields.io/badge/Plotly-E8F0FE?style=flat)
 
-3. **Proyecto 3** — *resultado / métrica clave*  
-   [🔗 Repo](#) • ![Tableau](https://img.shields.io/badge/Tableau-E6F4EA?style=flat) ![Python](https://img.shields.io/badge/Python-FFE5EC?style=flat)
+3. **Proyecto 3** — _Próximamente_  
+   [🔗 Repo](#) • ![Tableau](https://img.shields.io/badge/Tableau-E6F4EA?style=flat) ![Python](https://img.shields.io/badge/Python-FFE5EC?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-E0FBFC?style=flat)
 
-4. **Proyecto 4** — *insight destacado*  
-   [🔗 Repo](#) • ![PowerBI](https://img.shields.io/badge/Power%20BI-FFF4DB?style=flat) ![SQL](https://img.shields.io/badge/SQL-EFF7F6?style=flat)
+4. **Proyecto 4** — _Próximamente_  
+   [🔗 Repo](#) • ![Power BI](https://img.shields.io/badge/Power%20BI-FFF4DB?style=flat) ![SQL](https://img.shields.io/badge/SQL-EFF7F6?style=flat) ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFF4DB?style=flat)
 
-5. **Proyecto 5** — *pequeña frase de impacto*  
-   [🔗 Repo](#) • ![scikit-learn](https://img.shields.io/badge/sklearn-FFE0B5?style=flat) ![Matplotlib](https://img.shields.io/badge/Matplotlib-FFF4DB?style=flat)
+### Extras creativos
+5. **Proyecto 5** — _Próximamente_  
+   [🔗 Repo](#) • ![Pandas](https://img.shields.io/badge/Pandas-F8E1F4?style=flat) ![Seaborn](https://img.shields.io/badge/Seaborn-EED9F2?style=flat)
 
-6. **Proyecto 6** — *tecnología/tema*  
-   [🔗 Repo](#) • ![Pandas](https://img.shields.io/badge/Pandas-F8E1F4?style=flat) ![NumPy](https://img.shields.io/badge/NumPy-E0FBFC?style=flat)
+6. **Proyecto 6** — _Próximamente_  
+   [🔗 Repo](#) • ![APIs](https://img.shields.io/badge/APIs-C7DDE8?style=flat) ![ETL](https://img.shields.io/badge/ETL-D7EBD0?style=flat)
 
 ---
 
